@@ -1,0 +1,40 @@
+id,Bus_name,Bus_type,Start_time,End_time,Total_duration,Price,Seats_Available,Ratings,Route_link,Route_name
+0,Assam State Transport Corporation (ASTC) - 153223,Bharat Benz A/C Seater (2+2),09:15,13:30,04h 15m,INR 298,20 Seats available,3.997,https://www.redbus.in/bus-tickets/tezpur-to-guwahati,Tezpur to Guwahati
+1,Assam State Transport Corporation (ASTC) - 173420,Bharat Benz A/C Seater (2+2),10:35,15:15,04h 40m,INR 298,5 Seats available,3.956,https://www.redbus.in/bus-tickets/tezpur-to-guwahati,Tezpur to Guwahati
+2,Assam State Transport Corporation (ASTC) - 157959,Bharat Benz A/C Seater (2+2),14:00,18:30,04h 30m,INR 298,19 Seats available,4.2203,https://www.redbus.in/bus-tickets/tezpur-to-guwahati,Tezpur to Guwahati
+3,Assam State Transport Corporation (ASTC) - 154930,Volvo AC Seater 2+2,15:45,20:00,04h 15m,INR 298,17 Seats available,3.951,https://www.redbus.in/bus-tickets/tezpur-to-guwahati,Tezpur to Guwahati
+4,WARISPIYA TRAVELS,AC Seater (2+2),08:20,12:00,03h 40m,INR 360,23 Seats available,4.1346,https://www.redbus.in/bus-tickets/tezpur-to-guwahati,Tezpur to Guwahati
+5,Kalpana Travels,AC Seater (2+2),08:50,12:30,03h 40m,INR 342,35 Seats available,4.325,https://www.redbus.in/bus-tickets/tezpur-to-guwahati,Tezpur to Guwahati
+6,Pranjit Travels (Under ASTC),NON A/C Seater (2+1),10:10,15:00,04h 50m,INR 450,28 Seats available,3.118,https://www.redbus.in/bus-tickets/tezpur-to-guwahati,Tezpur to Guwahati
+7,Chartered Bus - ASTC,A/C Seater Push Back (2+2),11:30,16:15,04h 45m,INR 475.36,1 Seat available,4.111,https://www.redbus.in/bus-tickets/tezpur-to-guwahati,Tezpur to Guwahati
+8,Pranjit Travels (Under ASTC),NON A/C Seater (2+1),11:30,16:45,05h 15m,INR 450,37 Seats available,4.319,https://www.redbus.in/bus-tickets/tezpur-to-guwahati,Tezpur to Guwahati
+9,PANKAJ TRAVELS,AC Seater (2+2),13:10,17:50,04h 40m,INR 350,24 Seats available,3.56,https://www.redbus.in/bus-tickets/tezpur-to-guwahati,Tezpur to Guwahati
+10,SHIVAM TRAVELS,Bharat Benz A/C Seater (2+1),15:00,19:15,04h 15m,INR 360,28 Seats available,4.0196,https://www.redbus.in/bus-tickets/tezpur-to-guwahati,Tezpur to Guwahati
+11,Chartered Bus - ASTC,Volvo AC Seater Pushback 2+2,15:30,19:15,03h 45m,INR 389.13,27 Seats available,4.6487,https://www.redbus.in/bus-tickets/tezpur-to-guwahati,Tezpur to Guwahati
+12,Karisma (Aziba),NON A/C Seater (2+1),09:45,14:10,04h 25m,INR 350,18 Seats available,2.6,https://www.redbus.in/bus-tickets/tezpur-to-guwahati,Tezpur to Guwahati
+13,BLUE HILL TRAVELS INDIA LIMITED,NON A/C Seater Semi Sleeper (2+1),22:15,03:45,05h 30m,INR 450,27 Seats available,3.627,https://www.redbus.in/bus-tickets/tezpur-to-guwahati,Tezpur to Guwahati
+14,Assam State Transport Corporation (ASTC) - 175310,Bharat Benz A/C Seater (2+2),08:30,12:45,04h 15m,INR 298,24 Seats available,3.12,https://www.redbus.in/bus-tickets/guwahati-to-tezpur,Guwahati to Tezpur
+15,Assam State Transport Corporation (ASTC) - 154910,Bharat Benz A/C Seater (2+2),10:30,15:00,04h 30m,INR 298,27 Seats available,3.7335,https://www.redbus.in/bus-tickets/guwahati-to-tezpur,Guwahati to Tezpur
+16,Assam State Transport Corporation (ASTC) - 139720,Volvo AC Seater 2+2,13:45,18:00,04h 15m,INR 298,23 Seats available,4.242,https://www.redbus.in/bus-tickets/guwahati-to-tezpur,Guwahati to Tezpur
+17,Pranjit Travels (Under ASTC),NON A/C Seater (2+1),08:45,13:10,04h 25m,INR 450,25 Seats available,3.112,https://www.redbus.in/bus-tickets/guwahati-to-tezpur,Guwahati to Tezpur
+18,NEELKANTH TRAVELS,A/C Seater Push Back (2+2),09:05,14:30,05h 25m,INR 300,32 Seats available,3.732,https://www.redbus.in/bus-tickets/guwahati-to-tezpur,Guwahati to Tezpur
+19,Mahi Travels(Under ASTC),A/C Seater (2+2),10:00,15:00,05h 00m,INR 359,5 Seats available,4.2293,https://www.redbus.in/bus-tickets/guwahati-to-tezpur,Guwahati to Tezpur
+20,AdKalpana Travels,AC Seater (2+2),16:50,20:15,03h 25m,INR 342,39 Seats available,4.741,https://www.redbus.in/bus-tickets/guwahati-to-tezpur,Guwahati to Tezpur
+21,Upasana Travels (Under ASTC),Non AC Seater (2+2),11:00,15:00,04h 00m,INR 290,18 Seats available,3,https://www.redbus.in/bus-tickets/guwahati-to-tezpur,Guwahati to Tezpur
+22,Orient Transline,A/C Seater (2+1),11:30,15:50,04h 20m,INR 380.95,22 Seats available,3.8314,https://www.redbus.in/bus-tickets/guwahati-to-tezpur,Guwahati to Tezpur
+23,Orient Transline,A/C Seater (2+1),13:00,17:10,04h 10m,INR 380.95,16 Seats available,4.2163,https://www.redbus.in/bus-tickets/guwahati-to-tezpur,Guwahati to Tezpur
+24,Mahi Travels(Under ASTC),A/C Seater (2+2),14:15,17:50,03h 35m,INR 389,35 Seats available,4.514,https://www.redbus.in/bus-tickets/guwahati-to-tezpur,Guwahati to Tezpur
+25,Mahalaxmi Travels,A/C Seater (2+2),14:35,18:15,03h 40m,INR 300,33 Seats available,3.824,https://www.redbus.in/bus-tickets/guwahati-to-tezpur,Guwahati to Tezpur
+26,WARISPIYA TRAVELS,AC Seater (2+2),15:00,18:40,03h 40m,INR 360,26 Seats available,4.4383,https://www.redbus.in/bus-tickets/guwahati-to-tezpur,Guwahati to Tezpur
+27,Assam State Transport Corporation (ASTC) - 154910,Bharat Benz A/C Seater (2+2),10:30,14:00,03h 30m,INR 259,28 Seats available,3.713,https://www.redbus.in/bus-tickets/guwahati-to-kaliabor,Guwahati to Kaliabor
+28,Assam State Transport Corporation (ASTC) - 139720,Volvo AC Seater 2+2,13:45,17:15,03h 30m,INR 259,27 Seats available,4.2,https://www.redbus.in/bus-tickets/guwahati-to-kaliabor,Guwahati to Kaliabor
+29,NEELKANTH TRAVELS,A/C Seater Push Back (2+2),09:05,14:00,04h 55m,INR 250,41 Seats available,4.4,https://www.redbus.in/bus-tickets/guwahati-to-kaliabor,Guwahati to Kaliabor
+30,TRINAYAN TRANSPORT (Under ASTC),A/C Seater (2+1),09:15,12:15,03h 00m,INR 360,35 Seats available,3.8,https://www.redbus.in/bus-tickets/guwahati-to-kaliabor,Guwahati to Kaliabor
+31,Mahi Travels(Under ASTC),A/C Seater (2+2),10:00,14:45,04h 45m,INR 362,40 Seats available,4.27,https://www.redbus.in/bus-tickets/guwahati-to-kaliabor,Guwahati to Kaliabor
+32,Orient Transline,A/C Seater (2+1),11:30,15:00,03h 30m,INR 380.95,37 Seats available,4,https://www.redbus.in/bus-tickets/guwahati-to-kaliabor,Guwahati to Kaliabor
+33,Trishul Transport Service(Under ASTC),A/C Seater Push Back (2+1),11:30,14:45,03h 15m,INR 509,27 Seats available,3.9,https://www.redbus.in/bus-tickets/guwahati-to-kaliabor,Guwahati to Kaliabor
+34,Anindita Travels,NON A/C Seater (2+1),12:30,17:15,04h 45m,INR 405,37 Seats available,4.1,https://www.redbus.in/bus-tickets/guwahati-to-kaliabor,Guwahati to Kaliabor
+35,Orient Transline,A/C Seater (2+1),13:00,16:20,03h 20m,INR 380.95,37 Seats available,4,https://www.redbus.in/bus-tickets/guwahati-to-kaliabor,Guwahati to Kaliabor
+36,Mahalaxmi Travels,A/C Seater (2+2),14:35,17:25,02h 50m,INR 280,40 Seats available,4.1,https://www.redbus.in/bus-tickets/guwahati-to-kaliabor,Guwahati to Kaliabor
+37,TRINAYAN TRANSPORT (Under ASTC),A/C Seater (2+1),20:15,01:15,05h 00m,INR 360,35 Seats available,3.8,https://www.redbus.in/bus-tickets/guwahati-to-kaliabor,Guwahati to Kaliabor
+38,BAIKUNTHA TRAVELS (UNDER ASTC),A/C Seater/Sleeper (2+1),20:00,23:15,03h 15m,INR 439,45 Seats available,3.3,https://www.redbus.in/bus-tickets/guwahati-to-kaliabor,Guwahati to Kaliabor
